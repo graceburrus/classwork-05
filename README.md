@@ -1,3 +1,3 @@
 # classwork-05
 
-[ViewMyFavoriteThings!](gracefavorites.html)
+[View My Favorite Things](gracefavorites.html)
